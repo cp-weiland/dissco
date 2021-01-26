@@ -1,7 +1,6 @@
-#Representing Taxonomic Identification including a Digital Specimen
-##openDS session DiSSCo AHM1
+## openDS session DiSSCo AHM1
 
-![Figure](DwC_BFO02b.jpg)
+![Representing Taxonomic Identification including a Digital Specimen](DwC_BFO02a.jpg)
 
 * Model of taxonomic identification process that gets information from a Digital Specimen and has as output a taxon concept that feeds back (iao:about) to Physical and Digital Specimen 
 * Enables reasoning to track the provenance of taxonomic identification processes and link specimens to a taxon concepts (here simplified, many in the original model) 
